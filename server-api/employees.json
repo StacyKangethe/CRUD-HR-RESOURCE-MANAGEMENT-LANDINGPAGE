@@ -1,0 +1,62 @@
+[
+  {
+    "firstName": "Mwaura",
+    "lastName": "Wangai",
+    "address": "Nanyuki",
+    "email": "wangaimwaura@gmail.com",
+    "gender": "male",
+    "maritalStatus": "single",
+    "department": "transport",
+    "role": "Driver",
+    "dob": "2023-05-23",
+    "workplace": "office",
+    "leave": true,
+    "salary": "35000",
+    "id": "86b7f2d0-3b68-4556-baf2-305ec4d2d536"
+  },
+  {
+    "firstName": "James",
+    "lastName": "Kioko",
+    "address": "Kapsabet",
+    "email": "kioko@gmail.com",
+    "gender": "male",
+    "maritalStatus": "married",
+    "department": "administration",
+    "role": "Assistant",
+    "dob": "1993-03-16",
+    "workplace": "remote",
+    "leave": false,
+    "salary": "15000",
+    "id": "1c5a1b81-bcff-4f81-9427-6210f5199139"
+  },
+  {
+    "firstName": "Wambui",
+    "lastName": "Ilako",
+    "address": "Kakamega",
+    "email": "ilako@gmail.com",
+    "gender": "female",
+    "maritalStatus": "married",
+    "department": "catering",
+    "role": "Chef",
+    "dob": "1991-09-04",
+    "workplace": "office",
+    "leave": true,
+    "salary": "80000",
+    "id": "7a0970b8-9a6a-455b-9a4b-4c0953cee6da"
+  },
+  {
+    "firstName": "Joshua",
+    "lastName": "Kilgoris",
+    "address": "Marsabit",
+    "email": "kilgoris@gmail.com",
+    "gender": "male",
+    "maritalStatus": "single",
+    "department": "ict",
+    "role": "Server Assistant",
+    "dob": "1994-07-28",
+    "workplace": "office",
+    "leave": false,
+    "salary": "120000",
+    "id": "1f383926-8859-487a-b407-506f9e4d30ff"
+  }
+]
